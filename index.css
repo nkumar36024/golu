@@ -130,7 +130,7 @@ section .title::after{
 .menu-btn{
     color: #fff;
     font-size: 23px;
-    cursor: pointer;
+    cursor:no-drop;
     display: none;
 }
 .scroll-up-btn{

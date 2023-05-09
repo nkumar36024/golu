@@ -1,2 +1,0 @@
-# golu
-my portfolio

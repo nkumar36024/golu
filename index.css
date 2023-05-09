@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-   background:url("C:\Users\hp\OneDrive\Desktop\HTML\images\kkkk.jpg") no-repeat center;
+   background:url("images\kkkk.jpg") no-repeat center;
     height: 80vh;
     color: #0717f7;
     min-height: 400px;
